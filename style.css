@@ -56,10 +56,6 @@ main {
     text-align: center;
 }
 
-::placeholder{
-    font-size: 10px;
-}
-
 .textoFinal:focus{
     outline: none;
 }
